@@ -10,7 +10,7 @@ time_zones=[
     "America/New_York",
     "Europe/London",
     "Asia/Tokyo",
-    "Australia/Sydney"
+    "Australia/Sydney",
     "America/Los_Angeles",
     "Europe/Berlin",
     "Asia/Dubai",
